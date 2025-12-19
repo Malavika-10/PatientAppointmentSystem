@@ -41,7 +41,7 @@ namespace PatientAppointmentSystem
 
             bool running = true;
 
-
+            Console.WriteLine("Welcome");
             while (running)
 
             {
